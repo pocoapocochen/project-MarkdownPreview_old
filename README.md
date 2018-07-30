@@ -1,6 +1,6 @@
 # project-MarkdownPreviewer
 * Project topic from: freeCodeCamp - Front End Libraries Course
-* [Live](https://pocoapocochen.github.io/project-MarkdownPreviewer/.) version
+* [Live](https://pocoapocochen.github.io/project-MarkdownPreviewer/) version
 
 ## User Story
 * I can ....
