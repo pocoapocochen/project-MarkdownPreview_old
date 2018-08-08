@@ -11,7 +11,7 @@
 ## Using
 * HTML
 * CSS (layout: flexbox)
-* React
+* React (install with [Add React to a Website](https://reactjs.org/docs/add-react-to-a-website.html) method)
 * Marked.js
 * CSS Preprocessor: SCSS
 * JavaScript Preprocessor: Babel
