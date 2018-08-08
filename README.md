@@ -1,4 +1,4 @@
-# project-MarkdownPreviewer
+# project-MarkdownPreviewer_old
 * Project topic from: [freeCodeCamp - Front End Libraries Projects - Build a Markdown Previewer](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer/)
 * [Live](https://pocoapocochen.github.io/project-MarkdownPreviewer_old/) version
 
