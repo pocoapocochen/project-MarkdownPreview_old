@@ -1,6 +1,6 @@
-# project-MarkdownPreview_old
+# project-MarkdownPreviewer_old
 * Project topic from: [freeCodeCamp - Front End Libraries Projects - Build a Markdown Previewer](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer/)
-* [Live](https://pocoapocochen.github.io/project-MarkdownPreview_old/) version
+* [Live](https://pocoapocochen.github.io/project-MarkdownPreviewer_old/) version
 
 ## User Story
 * When I enter text into the editor field, the preview field is updated as I type to display the content of the editor field.
@@ -11,8 +11,8 @@
 ## Using
 * HTML
 * CSS (layout: flexbox)
-* React (install with [Add React to a Website](https://reactjs.org/docs/add-react-to-a-website.html) method)
-* Marked.js
 * CSS Preprocessor: SCSS
+* React (install with [Add React to a Website](https://reactjs.org/docs/add-react-to-a-website.html) method)
 * JavaScript Preprocessor: Babel
+* Marked.js
 * Font Awesome
